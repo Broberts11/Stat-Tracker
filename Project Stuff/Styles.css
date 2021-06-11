@@ -9,7 +9,7 @@
 }
 
 body{
-    background-image: url("NFL.jpg");
+    background-image: url("NFL1.jpg");
 }
 
 .site-container {
@@ -60,6 +60,8 @@ body{
 .sidebar-item {
     padding: 20px;
 }
+
+
 
 .article-container {
     display: flex;
